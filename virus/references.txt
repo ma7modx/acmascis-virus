@@ -1,0 +1,27 @@
+*string stream
+http://www.cplusplus.com/reference/sstream/stringstream/stringstream/
+
+*Files and fstream
+http://www.cplusplus.com/doc/tutorial/files/
+
+https://www.daniweb.com/software-development/cpp/threads/6542/fstream-tutorial
+http://stackoverflow.com/questions/23471534/read-and-write-a-binary-file-in-c-with-fstream
+
+*how to pass argument to the program
+http://stackoverflow.com/questions/17645447/how-to-pass-command-line-arguments-to-a-c-program
+http://www.cplusplus.com/articles/DEN36Up4/
+http://www.dreamincode.net/forums/topic/30387-passing-arguments-to-your-program/
+
+*Command prombt
+http://stackoverflow.com/questions/4885413/how-to-open-cmdcommand-prompt-through-c-program
+http://www.cplusplus.com/forum/beginner/109352/
+http://ss64.com/nt/start.html
+http://stackoverflow.com/questions/1200188/how-to-convert-stdstring-to-lpcstr
+
+*pointers and dynamic arrays
+http://www.cplusplus.com/doc/tutorial/pointers/
+http://www.cplusplus.com/doc/tutorial/dynamic/
+http://www.fredosaurus.com/notes-cpp/newdelete/50dynamalloc.html
+
+*get files within directory
+http://stackoverflow.com/questions/612097/how-can-i-get-the-list-of-files-in-a-directory-using-c-or-c
